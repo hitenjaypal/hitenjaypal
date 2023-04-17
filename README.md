@@ -17,7 +17,7 @@
 <p align="left">
 <a href="https://codepen.io/hitenjaypal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hitenjaypal" height="30" width="40" /></a>
 <a href="https://twitter.com/hitenjaypal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitenjaypal" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/hitenjaypal
+<a href="https://linkedin.com/hitenjaypal
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/hitenjaypal/" height="30" width="40" /></a>
 </p>
 
