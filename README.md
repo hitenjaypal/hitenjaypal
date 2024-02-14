@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Hiten Jaypal</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on 𝐂𝐨𝐥𝐥𝐞𝐠𝐞 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
+- 🔭 I’m currently working on My Portfoli0 𝐖𝐞𝐛𝐬𝐢𝐭𝐞
 
-- 🌱 I’m currently learning **Java with DSA**
+- 🌱 I’m currently learning **Java with DSA & Frontend Technologies**
 
 - 👯 I’m looking to collaborate on **Web Development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/hitenjaypal](https://github.com/hitenjaypal)
 
-- 💬 Ask me about **Web , Java**
+- 💬 Ask me about **Web , Java , JavaScript , ReactJs**
 
 - 📫 How to reach me **jaypalhiten144@gmail.com**
 
