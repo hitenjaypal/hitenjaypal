@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **Web , Java , JavaScript , ReactJs**
 
-- 📫 How to reach me **jaypalhiten144@gmail.com**
+- 📫 How to reach me **hitenj.works@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
