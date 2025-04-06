@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiten Jaypal</h1>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working on ReactL
+- 🔭 I’m currently working as a Backend-Developer
 
 - 🌱 I’m currently learning **Java with DSA & Frontend Technologies**
 
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/hitenjaypal](https://github.com/hitenjaypal)
 
-- 💬 Ask me about **Web , Java , JavaScript , ReactJs**
+- 💬 Ask me about **Web , Java , JavaScript , ReactJs , Nginx , Aws , Cloud**
 
 - 📫 How to reach me **hitenj.works@gmail.com**
 
