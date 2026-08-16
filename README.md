@@ -1,26 +1,154 @@
 <h1 align="center">Hi 👋, I'm Hiten Jaypal</h1>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🔭 I’m currently working as a Backend-Developer
 
-- 🌱 I’m currently learning **Java with DSA & Frontend Technologies**
+<h3 align="center">Backend & DevOps Engineer | AWS | Cloud Infrastructure | Automation</h3>
 
-- 👯 I’m looking to collaborate on **Web Development**
-
-- 👨‍💻 All of my projects are available at [https://github.com/hitenjaypal](https://github.com/hitenjaypal)
-
-- 💬 Ask me about **Web , Java , JavaScript , ReactJs , Nginx , Aws , Cloud**
-
-- 📫 How to reach me **hitenj.works@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-
-<p align="left">
-<a href="https://codepen.io/hitenjaypal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="hitenjaypal" height="30" width="40" /></a>
-<a href="https://twitter.com/hitenjaypal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="hitenjaypal" height="30" width="40" /></a>
-<a href="https://linkedin.com/hitenjaypal
-" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/hitenjaypal/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hitenjaypal&label=Profile%20Views&color=0e75b6&style=flat" alt="hitenjaypal" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+---
 
+### 👨‍💻 About Me
+
+* 🔭 Working as a **Backend & DevOps Engineer**, with experience across backend development, cloud infrastructure, and DevOps
+* ☁️ Hands-on experience with **AWS** and exposure to **Azure cloud infrastructure**
+* 🌐 Worked with **Linux-based servers, including Selectel infrastructure**
+* ⚙️ Automating infrastructure and deployments using **Terraform, SaltStack/Ansible, Jenkins and CI/CD**
+* 🐳 Working with **Docker and Kubernetes** for containerized application deployments
+* 🚀 Experience with **Node.js, Python, Nginx and backend systems**
+* 📈 Interested in **DevOps, Cloud Infrastructure, SRE, Automation, Scalability and System Reliability**
+* 🌱 Currently strengthening my expertise in **Kubernetes, Terraform, CI/CD, AWS, Cloud Architecture and DevSecOps**
+* 🏗️ Building hands-on projects around **AWS infrastructure, Infrastructure as Code, CI/CD pipelines and Kubernetes**
+* 👨‍💻 All of my projects are available on **[GitHub](https://github.com/hitenjaypal)**
+* 💬 Ask me about **AWS, Docker, Kubernetes, Terraform, Jenkins, CI/CD, Linux, Nginx, Node.js and Cloud Infrastructure**
+* 📫 Reach me at **[hitenj.works@gmail.com](mailto:hitenj.works@gmail.com)**
+
+---
+
+### 🛠️ Tech Stack
+
+#### ☁️ Cloud & Infrastructure
+
+<p align="left">
+<a href="https://aws.amazon.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="45" height="45"/>
+</a>
+
+<a href="https://azure.microsoft.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" alt="Azure" width="45" height="45"/>
+</a>
+
+<a href="https://www.terraform.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="45" height="45"/>
+</a>
+
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
+</a>
+</p>
+
+#### 🚀 DevOps & CI/CD
+
+<p align="left">
+<a href="https://www.jenkins.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="45" height="45"/>
+</a>
+
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="45" height="45"/>
+</a>
+
+<a href="https://kubernetes.io/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="45" height="45"/>
+</a>
+
+<a href="https://www.ansible.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="45" height="45"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
+</a>
+
+<a href="https://github.com/features/actions" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" width="45" height="45"/>
+</a>
+</p>
+
+#### 💻 Development & Web
+
+<p align="left">
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="45" height="45"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
+</a>
+
+<a href="https://nginx.org/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="45" height="45"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="45" height="45"/>
+</a>
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+#### ☁️ AWS VPC Architecture — Terraform
+
+Infrastructure-as-Code project implementing a production-style AWS VPC architecture with:
+
+* VPC and multi-subnet architecture
+* Public and private subnets
+* Internet Gateway
+* NAT Gateway
+* Route Tables
+* Bastion Host
+* Private EC2 infrastructure
+* Security Groups
+* Terraform modules
+
+#### 🔄 Jenkins + Docker CI/CD on AWS
+
+End-to-end CI/CD pipeline using:
+
+**GitHub → Jenkins → Docker → AWS EC2**
+
+Automates application build, Docker image creation and deployment to a Docker host.
+
+#### ☸️ Kubernetes & Cloud Projects
+
+Hands-on projects covering:
+
+* Kubernetes
+* EKS
+* Helm
+* ArgoCD
+* Terraform + Kubernetes
+* Containerized applications
+* CI/CD
+* Monitoring
+* DevSecOps
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=hitenjaypal&show_icons=true" alt="Hiten's GitHub Stats"/>
+</p>
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/hiten-jaypal/" target="_blank">
+<img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+</a>
+</p>
