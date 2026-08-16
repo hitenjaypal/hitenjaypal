@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiten Jaypal</h1>
 
-<h3 align="center">Backend & DevOps Engineer | AWS | Cloud | Automation</h3>
+<h3 align="center">DevOps & Backend Engineer | AWS | Cloud | Automation</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hitenjaypal&label=Profile%20Views&color=0e75b6&style=flat" alt="hitenjaypal" />
